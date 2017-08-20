@@ -1,0 +1,26 @@
+{
+  "name": "hapi-rest-mongo",
+  "version": "0.0.1",
+  "description": "Testing API built with Hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "api",
+    "rest",
+    "mongo",
+    "test",
+    "tutorial"
+  ],
+  "author": "Fabio M. Albertin <fabio@albertin.co.uk> (http://ifab.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "boom": "^5.2.0",
+    "hapi": "^16.5.2",
+    "joi": "^10.6.0",
+    "mongojs": "^2.4.1",
+    "node-uuid": "^1.4.8"
+  }
+}
